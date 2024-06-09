@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @namantiwari26
+- 👋 Hi, I’m dakuu
 Certainly! The provided Python project is a simple command-line-based personality quiz. It's designed for beginners and includes the following features:
 
 1. **Questionnaire:**
